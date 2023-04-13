@@ -1,2 +1,2 @@
-# Movie_Recommendation
-This is Movie Recommendation, Machine Learning Model. Which Recommends the Movies according to out interest. 
+# Movie_Recommendation_System
+ This is Movie Recommendation System using Python and Streamlit
